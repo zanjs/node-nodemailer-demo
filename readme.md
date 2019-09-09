@@ -1,5 +1,7 @@
 ## nodemailer demo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/node-nodemailer-demo.svg)](https://greenkeeper.io/)
+
 ### error
 
 ```
